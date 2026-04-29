@@ -1,0 +1,10 @@
+{
+  "name": "restaurant-food-service-marketing-kit",
+  "version": "1.0.0",
+  "description": "ClawHub skill: restaurant-food-service-marketing-kit",
+  "license": "MIT-0",
+  "openclaw": {
+    "type": "skill",
+    "category": "marketing"
+  }
+}
